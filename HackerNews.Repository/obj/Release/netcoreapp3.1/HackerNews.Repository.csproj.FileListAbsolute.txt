@@ -1,0 +1,9 @@
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Release\netcoreapp3.1\HackerNews.Repository.csprojAssemblyReference.cache
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Release\netcoreapp3.1\HackerNews.Repository.csproj.CoreCompileInputs.cache
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Release\netcoreapp3.1\HackerNews.Repository.AssemblyInfoInputs.cache
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Release\netcoreapp3.1\HackerNews.Repository.AssemblyInfo.cs
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\bin\Release\netcoreapp3.1\HackerNews.Repository.deps.json
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\bin\Release\netcoreapp3.1\HackerNews.Repository.dll
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\bin\Release\netcoreapp3.1\HackerNews.Repository.pdb
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Release\netcoreapp3.1\HackerNews.Repository.dll
+F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Release\netcoreapp3.1\HackerNews.Repository.pdb
