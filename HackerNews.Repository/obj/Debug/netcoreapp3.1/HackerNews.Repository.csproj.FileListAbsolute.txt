@@ -6,4 +6,3 @@ F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Debug\netco
 F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Debug\netcoreapp3.1\HackerNews.Repository.AssemblyInfo.cs
 F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Debug\netcoreapp3.1\HackerNews.Repository.dll
 F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Debug\netcoreapp3.1\HackerNews.Repository.pdb
-F:\CodeChallenge\BackEnd\BackEndHackerNews\HackerNews.Repository\obj\Debug\netcoreapp3.1\HackerNews.Repository.csprojAssemblyReference.cache

@@ -1,13 +1,19 @@
 ﻿using HackerNews.Service.Models;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace HackerNews.Service
 {
     public interface INewStoriesService
     {
+        /// <summary>
+        /// Get list of New Story Id's.
+        /// </summary>
+        /// <returns></returns>
         List<int> GetNewStoryIDs();
-        List<NewStoriesModel> GetNewStories();        
+        /// <summary>
+        /// Get list of new stories.
+        /// </summary>
+        /// <returns></returns>
+        List<NewStoriesModel> GetNewStories();       
     }
 }
